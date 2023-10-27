@@ -1,0 +1,14 @@
+        
+       
+            
+            case 'ArrowLeft':
+                console.log("esquerda")
+            break;
+            case 'ArrowRight':
+                console.log("direita")
+            break;
+            case 'ArrowDown':
+                console.log("Baixo")
+            break;
+        }
+    })

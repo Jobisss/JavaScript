@@ -1,0 +1,13 @@
+.div{
+    display: flex;
+    gap: 3px;
+    margin: auto;
+    
+}
+.square{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(6, 6, 218);
+    
+}
+
